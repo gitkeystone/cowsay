@@ -1,8 +1,7 @@
 # gocowsay Usage
 
 ```bash
-sudo apt install fortune-mod
-fortune | cowsay
+fortune | gocowsay
 ```
 
 
