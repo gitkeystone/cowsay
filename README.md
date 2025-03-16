@@ -1,4 +1,4 @@
-# cowsay Usage
+# gocowsay Usage
 
 ```bash
 sudo apt install fortune-mod
